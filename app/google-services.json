@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "36828474316",
+    "project_id": "nowcastmizadu",
+    "storage_bucket": "nowcastmizadu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36828474316:android:7d08da5deb4e3ba5c54b69",
+        "android_client_info": {
+          "package_name": "com.tfg.nowcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMlMZwGuy0AlgAQ9armXfZZKTmL-ASEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36828474316-2tcie8802hdja88fnq2v418roh4gku51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
