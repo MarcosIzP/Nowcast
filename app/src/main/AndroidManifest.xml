@@ -10,8 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Nowcast">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".AuthActivity"
+            android:exported="false">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
